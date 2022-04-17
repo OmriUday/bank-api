@@ -1,0 +1,15 @@
+* {
+  padding: 0 !important;
+  margin: 0 !important;
+  box-sizing: border-box !important;
+}
+
+body {
+  width: 100vw !important;
+  height: 100vh !important;
+}
+
+#root {
+  width: 100% !important;
+  height: 100% !important;
+}
